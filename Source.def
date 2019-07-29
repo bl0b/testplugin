@@ -1,0 +1,4 @@
+LIBRARY "myplugin.arx"
+EXPORTS
+    acrxEntryPoint PRIVATE
+	acrxGetApiVersion PRIVATE
